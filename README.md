@@ -1,5 +1,5 @@
 # What a Moment!!
-### Showcasing the possiblities that Web3 can bring to all of us in real
+### Showcasing the possiblities that Web3 technologies can bring in building something real using Blockchain, IPFS and Crypto Wallet. Web3 which is been called as an idea for a new iteration of the World Wide Web which incorporates concepts such as decentralization, blockchain technologies, and token-based economics.
 
 <br/>
 A cool way to make every Moments of your life immutable through Web3. List captured moments in the Web3 enabled platform and get a chance to earn if other people likes your Moments. Transfer your immutable life Moments to your friends and loved ones.

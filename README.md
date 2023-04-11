@@ -7,9 +7,10 @@ A cool way to make every Moments of your life immutable through Web3. List captu
 <br/>
 <br/>
 
-* Web3 enabled marketplace to List and Explore the captured life moments
+* Web3 enabled marketplace to List your captured life moments
 
-![List and Explore your Moments](https://user-images.githubusercontent.com/1386632/231241354-9d03edb2-f8c7-4f42-bcce-f3441126cd92.png)
+![List your Moments](https://user-images.githubusercontent.com/1386632/231252769-92e31105-473f-4b42-b535-bae6f702fd36.png)
+
 
 <br/>
 <br/>

@@ -2,7 +2,7 @@
 const nextConfig = {
   reactStrictMode: true,
   images: {
-    domains: ['nftmarkitplace.infura-ipfs.io'],
+    domains: ['<NEXT_PUBLIC_DEDICATED_GATEWAY from .env.local>'],
   },
 }
 
